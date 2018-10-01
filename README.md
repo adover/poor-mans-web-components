@@ -19,7 +19,7 @@ The `index.handlebars` page is generated from an `index.js` file. This contains 
 
 ### Components
 
-_Important_ If you want a centrally aligned page you _must_ import the `../../styles/init` into one of the scss files.
+Not written yet.
 
 ### Building
 
