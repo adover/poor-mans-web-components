@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+
+<head>
+    {{> styles}}
+    <meta content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1" name="viewport" />
+    <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+
+    <title>{{htmlWebpackPluginOptions.title}}</title>
+</head>
+
+<body>
+    <div id="body-container" class="container-fluid">
+        {{> head}} {{#> container}}{{/container}} {{> footer}}
+
+    </div>
+</body>
+
+</html>
