@@ -1,4 +1,4 @@
-# Poor Mans Components
+# Poor Man's Web Components
 
 For when writing HTML and CSS is too old school, but the new school isn't that reliable just yet.
 
