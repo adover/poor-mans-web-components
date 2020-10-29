@@ -24,7 +24,7 @@
         "babel-preset-react": "^6.24.1",
         "babel-register": "^6.26.0",
         "css-loader": "^1.0.0",
-        "file-loader": "^2.0.0",
+        "file-loader": "^6.2.0",
         "handlebars": "^4.0.12",
         "handlebars-loader": "^1.7.0",
         "html-inline-css-webpack-plugin": "^1.2.1",
